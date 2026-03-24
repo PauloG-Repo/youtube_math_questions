@@ -30,7 +30,7 @@ for i in range(TOTAL_PROBLEMS):
             break
         else:
             print('Wrong answer, try again.')
-            wrong == 1
+            wrong += 1
 
 end_time = time.time()
 total_time = round(end_time - start_time, 2)
