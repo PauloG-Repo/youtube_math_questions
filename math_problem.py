@@ -43,3 +43,4 @@ print(f'Your total time is {total_time} seconds!')
 #print(a, b)    >>>>>> it sends back two values. By putting two variables on the left side of the =, Python automatically assigns 
 #               >>>>>> the first returned value (expression) to the variable (a) and the second returned value (answer) to the variable (b).
 
+#commit on git update
